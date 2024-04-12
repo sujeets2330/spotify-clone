@@ -1,3 +1,3 @@
-# Basic of web dev
+# New project
 
-First project with CSS &HTML5
+This is Spotify clone using CSS & HTML5
